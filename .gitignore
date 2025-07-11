@@ -1,0 +1,14 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MelhorRotaApi/CopilotIndices/17.14.734.62261
+/.vs/MelhorRotaApi/DesignTimeBuild
+/.vs/MelhorRotaApi/FileContentIndex
+/.vs/MelhorRotaApi/v17
+/.vs/ProjectEvaluation
+/MelhorRotaApi/bin/Debug/net8.0
+/.vs/MelhorRotaApi/v16
+/MelhorRotaApi/obj
+/MelhorRotaApi.Tests/bin/Debug/net8.0
+/MelhorRotaApi.Tests/obj
